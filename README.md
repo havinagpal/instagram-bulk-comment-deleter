@@ -1,4 +1,4 @@
-# Instagram Comment Delete
+# Instagram Bulk Comment Deleter
 
 This repository provides a Python script to automate the deletion of comments on Instagram using Selenium WebDriver. It is intended for users who want to efficiently manage and remove their Instagram comments in a secure manner.
 
