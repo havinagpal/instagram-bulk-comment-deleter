@@ -1,0 +1,3 @@
+# Requirements for Instagram Comment Delete Script
+selenium
+webdriver-manager
